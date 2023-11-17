@@ -1,0 +1,11 @@
+strong {
+  color: #292929;
+}
+li {
+  color: #4f4f4f;
+  padding-left: 16px;
+  margin-top: 24px;
+  position: relative;
+  font-size: 16px;
+  line-height: 20px;
+}
